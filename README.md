@@ -115,24 +115,6 @@ const tommcontreras11 = {
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
@@ -160,6 +142,16 @@ const tommcontreras11 = {
       <td width="25%" align="center">
         <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
   </tbody>

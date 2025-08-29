@@ -119,11 +119,11 @@ const tommcontreras11 = {
       </td>
       <td width="25%" align="center">
         <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sqlite">
+        <img height="64px" src="https://cdn.svgporn.com/logos/sqlite.svg">
       </td>
       <td width="25%" align="center">
         <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sqlserver">
+        <img height="64px" src="https://cdn.svgporn.com/logos/sqlserver.svg">
       </td>
       <td width="25%" align="center">
         <br/><br/>

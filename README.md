@@ -30,6 +30,7 @@ const tommcontreras11 = {
         },
         databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL", "MySQL"],
         mobileApp: ["React-Native", "Android Studio - Java"], //beginner
+        cloud: ["AWS"]
     }
 };
 ```
